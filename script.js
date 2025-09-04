@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Click here to see the motion baby";
+  const startMessage = "?";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "JAQLIV";
+  const name = "caracal.";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -236,8 +236,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
-    "\"Hello, World!\""
+    "caracal.",
+    "bc1qjz7yftp484umv6t3j0caez7yuljxeuhhkgpuvp",
+    "Divine intellect"
+
   ];
   let bioText = '';
   let bioIndex = 0;
